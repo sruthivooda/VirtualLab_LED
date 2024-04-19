@@ -45,7 +45,4 @@ Once you've launched the Virtual LED Lab, you can:
  - [Bootstrap](https://getbootstrap.com/)
 
 
-## 🔗 Links
-
- - [Project Live](https://virtual-led-lab.onrender.com)
 
