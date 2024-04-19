@@ -1,4 +1,4 @@
-# Virtual_LED_Lab
+# VirtualLab_LED
 
 
 - Welcome to the Virtual LED Lab project! This web-based application is designed to provide an immersive and interactive experience for conducting LED experiments virtually. Whether you're a student, educator, or enthusiast, the Virtual LED Lab offers a platform to explore LED functionalities and principles in an engaging way.
