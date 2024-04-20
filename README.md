@@ -24,7 +24,7 @@ Features
 ```
 ### Navigate to the Directory
 ``` bash
- cd virtual_LED_lab
+ cd VirtualLab_LED
  start index.html 
 ```
 
